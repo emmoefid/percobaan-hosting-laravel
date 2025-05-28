@@ -9,7 +9,7 @@
     <h1>
         Selamat Datang di Aplikasi Data Diri
         <br>
-        <a href="">Lihat Data Diri</a>
+        <a href="/data-diri/Pertama.blade.php">Lihat Data Diri</a>
         <br>
     </h1>
 </body>
